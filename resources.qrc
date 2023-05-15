@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/playmove.png</file>
+        <file>D:/Informatica2/pruebasprite/Imagenes/bmpDestruible.png</file>
+        <file>D:/Informatica2/pruebasprite/Imagenes/bmpEnemigo.png</file>
+        <file>D:/Informatica2/pruebasprite/Imagenes/bmpMejoras.png</file>
+        <file>D:/Informatica2/pruebasprite/Imagenes/bmpSolido.png</file>
+        <file>D:/Informatica2/pruebasprite/Imagenes/bmpSuelo.png</file>
+        <file>D:/Informatica2/pruebasprite/Imagenes/bomba.png</file>
+        <file>D:/Informatica2/pruebasprite/Imagenes/explosion.png</file>
+        <file>D:/Informatica2/pruebasprite/Imagenes/Jugador.png</file>
+        <file>D:/Informatica2/pruebasprite/Imagenes/NeoEarlyBomberman.gif</file>
+        <file>D:/Informatica2/pruebasprite/Imagenes/NeoEarlyBomberman2.gif</file>
+        <file>D:/Informatica2/pruebasprite/Imagenes/Series_de_Fourier_v2.mlx</file>
+        <file>Images/bmpDestruible.png</file>
+        <file>Images/bmpSolido.png</file>
+        <file>Images/bmpSuelo.png</file>
+        <file>Images/NeoEarlyBomberman2.gif</file>
+        <file>Images/NeoEarlyBomberman3.gif</file>
+    </qresource>
+</RCC>
